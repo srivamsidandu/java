@@ -1,5 +1,5 @@
 package com.SriVamsi;
-public class sri {
+public class insertinlinkedlist {
     public  class Node{
         int data;
         Node next;
@@ -45,7 +45,7 @@ public class sri {
     }
 
     public static void main(String[] args) {
-        sri ncx = new sri();
+        insertinlinkedlist ncx = new insertinlinkedlist();
         ncx.addnode(23);
         ncx.addnode(34);
         ncx.addnode(45);
