@@ -50,7 +50,7 @@ public class sri {
         ncx.addnode(34);
         ncx.addnode(45);
         ncx.display();
-
+        //hello vamsi
         System.out.println("reverse");
         ncx.reverse(ncx.head);
     }
